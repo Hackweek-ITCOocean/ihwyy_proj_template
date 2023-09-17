@@ -1,5 +1,5 @@
 # ihwyy_proj_template
-Template for starting Oceanhackweek project repos
+Template for starting ITCOocean hackweek project repos
 
 ## Project Name
 
